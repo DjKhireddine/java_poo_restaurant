@@ -1,3 +1,5 @@
+package restaurant;
+
 public enum EAllergene {
     ARACHIDES,
     FRUITS_A_COQUE,
